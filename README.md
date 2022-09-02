@@ -21,4 +21,9 @@ And to prevent loading, use:
 
 In this way loadindex parallels the concepts of the global attribute [`tabindex`](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/tabindex)
 
+# Get it
+
+```shell
+$ npm i --save load-control
+```
 
