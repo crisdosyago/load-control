@@ -1,6 +1,6 @@
 {
   "name": "load-control",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fine grained control of page load progress using the loadindex attribute",
   "main": "src/run.js",
   "scripts": {
