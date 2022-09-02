@@ -9,8 +9,11 @@ Tik tok tik tok...
 The API of this library is simple. Just put a `loadindex` on any element you want to control the load sequence of (how it displays into the page). Understood values are:
 
 0 - loads in natural order.
+
 1 - loads before anything in natural order.
+
 n - loads before anything with loadindex n-1 or below.
+
 
 And to prevent loading, use:
 
